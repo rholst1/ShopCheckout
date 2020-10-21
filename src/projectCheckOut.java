@@ -128,7 +128,7 @@ public class projectCheckOut {
 				+ "'put' <name> <name> \n'process' checkout customer \n'reset' empty the queue \n'quit' exit program");
 
 		printQueue();
-
+		// testing
 		while (true) {
 				// reset
 			String userInput = scanner.nextLine();
